@@ -1,0 +1,1 @@
+In this workshop, we introduced how to print in the Arduino Serial console, and set up a light control with the use of a photoresistor.
